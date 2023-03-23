@@ -1,0 +1,11 @@
+C:\Users\student\Downloads\game01-main\game01-main\game\bin\Debug\MatchingGame.exe.config
+C:\Users\student\Downloads\game01-main\game01-main\game\bin\Debug\MatchingGame.exe
+C:\Users\student\Downloads\game01-main\game01-main\game\bin\Debug\MatchingGame.pdb
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\MatchingGame.Form1.resources
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\MatchingGame.exe
+C:\Users\student\Downloads\game01-main\game01-main\game\obj\Debug\MatchingGame.pdb
